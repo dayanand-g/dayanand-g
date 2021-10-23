@@ -35,4 +35,4 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <a href="https://www.linkedin.com/in/dayanand-m-g-9623b71b7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/dayanand_g_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="mailto:dayanandadaya8055@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dayanandadaya8055@gmail.com-blue?style=flat-square&logo=gmail"></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dayanandadaya8055@gmail.com)](mailto:dayanandadaya8055@gmail.com)

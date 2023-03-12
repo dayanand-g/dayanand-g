@@ -1,5 +1,8 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
+
+
+![DAYANAND M G](https://user-images.githubusercontent.com/89378073/224520771-f9f4651c-46da-4f0e-9355-c607e189fa44.png)
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
 
 <h2> Hey there! I'm Dayanand M.G</h2>
